@@ -1,4 +1,4 @@
-# Hi, I'm Saad Zaki
+# Hi 👋, I'm Saad
 
 Software Engineer with experience at Tesla, Universe, Blackberry, and Foxpass. Currently studying Computer Science at the University of Waterloo (2026).
 
