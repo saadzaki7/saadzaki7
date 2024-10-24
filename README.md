@@ -49,16 +49,3 @@ Software Engineer with experience at Tesla, Universe, Blackberry, and Foxpass. C
 - LinkedIn: [linkedin.com/in/SaadZaki1](https://linkedin.com/in/SaadZaki1)
 - Email: s4zaki@uwaterloo.ca
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saadzaki7&show_icons=true&theme=dark)
-
-## 🎓 Education
-- University of Waterloo, Computer Science (2026)
-- Relevant Coursework: Data Structures, Algorithms, OOP, Databases
-
-## 🌟 Interests
-- Reading
-- Fitness
-- Entrepreneurship
-- Chess
-- Skiing
