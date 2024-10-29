@@ -3,7 +3,6 @@
 Software Engineer with experience at Tesla, Universe, Blackberry, and Foxpass. Currently studying Computer Science at the University of Waterloo (2026).
 
 ## 🚀 Current Work
-- Software Engineer Intern at Tesla (Energy)
 - Building and scaling data-driven tools for automotive and energy systems
 - Working on YTAnalytics.com, a platform with 11,000+ users
 
