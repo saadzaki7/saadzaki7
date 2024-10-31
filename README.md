@@ -1,50 +1,66 @@
-# Hi 👋, I'm Saad
+# Hi, I'm Saad 👋
 
-Software Engineer with experience at Tesla, Universe, Blackberry, and Foxpass. Currently studying Computer Science at the University of Waterloo (2026).
+### About Me 🎯
+Software Engineer with a passion for building scalable systems and data-driven tools. Currently working on energy systems at Tesla and maintaining YTAnalytics.com, a platform serving 11,000+ users. I combine my experience in automotive software, ML/AI, and distributed systems to create impactful solutions.
 
-## 🚀 Current Work
-- Building and scaling data-driven tools for automotive and energy systems
-- Working on YTAnalytics.com, a platform with 11,000+ users
+## 🔨 Current Work
+- Software Engineer Intern at Tesla (Energy)
+- Building YTAnalytics.com, a platform with 11,000+ users
+- Developing HapiGPT, an AI-powered mental wellness platform
 
-## 💻 Technical Skills
+## 💻 Experience
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+### Tesla (Drive Unit) 🚗
+- Built motor data tool processing **330GB+** monthly from **38K+ vehicles**
+- Deployed across Model Y (Texas/Berlin) and Cybertruck production
+- Technologies: Python, Go, Docker, CAN, Big Data Pipelines
 
-### Cloud & Tools
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### Universe (Mobile & ML) 📱
+- Optimized load times for **1M+ websites**
+- Server-side API migration and performance improvements
+- Technologies: Swift, JavaScript, React, TensorFlow
 
-## 🏆 Experience Highlights
+### Blackberry (Embedded) ⚙️
+- Testing automation for QNX OS (used in **215M+ vehicles**)
+- Saved **53+ hours** for **81 engineers** with validation framework
+- Technologies: C++, Python, TCP/IP
 
-### Tesla
-- Built data tools processing 330GB+ of motor data from 38K+ vehicles monthly
-- Implemented tools used in Model Y (Texas/Berlin) and Cybertruck production
-- Working on next-gen energy systems
-
-### Universe
-- Developed server-side optimizations improving load times for 1M+ websites
-- Worked with AI/ML technologies for website generation
-
-### Blackberry
-- Created testing tools for QNX OS (used in 215M+ vehicles)
-- Reduced engineering time by 53 hours with PCIe validation framework
-
-## 🎯 Featured Projects
+## 🚀 Featured Projects
 
 ### [YTAnalytics.com](https://ytanalytics.com)
-- YouTube analytics platform with 11,000+ users
-- Built with React, Python, AWS Lambda, and DynamoDB
-- Migrated from monolithic to microservices architecture
-- Real-time data processing and analytics
+YouTube analytics platform with **11,000+ users**
+- React, Python, AWS Lambda, DynamoDB
+- Microservices architecture
+- Real-time analytics
 
-## 📫 Connect With Me
-- LinkedIn: [linkedin.com/in/SaadZaki1](https://linkedin.com/in/SaadZaki1)
+### [HapiGPT](https://www.hapigpt.com)
+AI-powered mental wellness platform
+- React + Vite frontend with TailwindCSS
+- Node.js backend with OpenAI integration
+- Full-stack development and deployment
+- Empathetic conversational AI design
+
+## 🛠️ Tech Stack
+- **Languages:** Python, C++, Go, JavaScript, Java
+- **Cloud & Data:** AWS, SQL, Docker, Linux
+- **Web:** React, Vite, TailwindCSS, Node.js
+- **ML/AI:** TensorFlow, PyTorch, OpenAI
+
+## 📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saadzaki7&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saadzaki7&show_icons=true&theme=dark)
+
+## 📫 Connect
+- [LinkedIn](https://linkedin.com/in/SaadZaki1)
 - Email: s4zaki@uwaterloo.ca
 
+## 🎓 Education
+University of Waterloo
+- Computer Science (2026)
+- Data Structures, Algorithms, OOP, Databases
+
+## 🌟 Interests
+- Building scalable systems
+- Machine Learning & AI
+- Entrepreneurship
+- Chess & Skiing
