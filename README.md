@@ -46,10 +46,6 @@ AI-powered mental wellness platform
 - **Web:** React, Vite, TailwindCSS, Node.js
 - **ML/AI:** TensorFlow, PyTorch, OpenAI
 
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saadzaki7&layout=compact&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saadzaki7&show_icons=true&theme=dark)
-
 ## 📫 Connect
 - [LinkedIn](https://linkedin.com/in/SaadZaki1)
 - Email: s4zaki@uwaterloo.ca
@@ -59,8 +55,3 @@ University of Waterloo
 - Computer Science (2026)
 - Data Structures, Algorithms, OOP, Databases
 
-## 🌟 Interests
-- Building scalable systems
-- Machine Learning & AI
-- Entrepreneurship
-- Chess & Skiing
