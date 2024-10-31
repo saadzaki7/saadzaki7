@@ -9,7 +9,7 @@ Software Engineer with a passion for building scalable systems and data-driven t
 - Developing HapiGPT, an AI-powered mental wellness platform
 
   
-## 🛠️ Tech Stack
+## 🛠️ Technologies
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
