@@ -5,8 +5,8 @@ Software Engineer with a passion for building scalable systems and data-driven t
 
 ## 🔨 Current Work
 - Software Engineer Intern at Tesla (Energy)
-- Building YTAnalytics.com, a platform with 11,000+ users
-- Developing HapiGPT, an AI-powered mental wellness platform
+- Maintaining YTAnalytics.com, a platform with 11,000+ users
+- Maintaining HapiGPT, an AI-powered mental wellness platform
 
   
 ## 🛠️ Technologies
