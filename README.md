@@ -35,7 +35,7 @@ Software Engineer working on high-performance computing and simulations at Tesla
 
 ## 💻 Experience
 
-### Tesla (HPC & Simulations) 🚗
+### Tesla (HPC & Data Pipelines) 🚗
 - Integrated DNP3 protocol into **90+ core** high-performance vehicle simulation platform
 - Built motor data tool processing **330GB+** monthly from **38K+ vehicles**
 - Deployed across Model Y (Texas/Berlin) and Cybertruck production
