@@ -1,10 +1,10 @@
 # Hi, I'm Saad 👋
 
 ### About Me 🎯
-Software Engineer with a passion for building scalable systems and data-driven tools. Currently working on energy systems at Tesla. Previously built YTAnalytics.com, a platform that reached 11,000+ users. I combine my experience in automotive software, ML/AI, distributed systems, and quantitative finance to create impactful solutions.
+Software Engineer working on high-performance computing and simulations at Tesla. I build scalable systems, quantitative trading platforms, and data-driven applications.
 
 ## 🔨 Current Work
-- Software Engineer Intern at Tesla (Energy)
+- Software Engineer Intern at Tesla (HPC & Simulations)
 - Maintaining HapiGPT, an AI-powered mental wellness platform
 - Building high-performance trading systems and market simulators
 
@@ -37,7 +37,7 @@ Software Engineer with a passion for building scalable systems and data-driven t
 
 ## 💻 Experience
 
-### Tesla (Energy Systems) 🚗
+### Tesla (HPC & Simulations) 🚗
 - Integrated DNP3 protocol into **90+ core** high-performance vehicle simulation platform
 - Built motor data tool processing **330GB+** monthly from **38K+ vehicles**
 - Deployed across Model Y (Texas/Berlin) and Cybertruck production
@@ -52,11 +52,6 @@ Software Engineer with a passion for building scalable systems and data-driven t
 - Testing automation for QNX OS (used in **215M+ vehicles**)
 - Saved **53+ hours** for **81 engineers** with validation framework
 - Technologies: C++, Python, TCP/IP
-
-## 🏆 Awards & Recognition
-- **Codeforces Expert** (Rating 1786, Top 8% globally)
-- **Ontario Provincial Chess Competition** - 9th place
-- **Tesla Company-wide Recognition** - Featured on internal TV displays across NA offices
 
 ## 🚀 Featured Projects
 
