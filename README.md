@@ -1,7 +1,7 @@
 # Hi, I'm Saad 👋
 
 ### About Me 🎯
-Software Engineer working on high-performance computing and simulations at Tesla. I build scalable systems, quantitative trading platforms, and data-driven applications.
+Software Engineer working on high-performance computing and simulations at Tesla. I build scalable systems, data-driven applications, and quantitative trading platforms.
 
 ## 🔨 Current Work
 - Software Engineer Intern at Tesla (HPC & Simulations)
