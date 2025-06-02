@@ -6,8 +6,6 @@ Software Engineer working on high-performance computing and simulations at Tesla
 ## 🔨 Current Work
 - Software Engineer Intern at Tesla (HPC & Simulations)
 - Maintaining HapiGPT, an AI-powered mental wellness platform
-- Building high-performance trading systems and market simulators
-
   
 ## 🛠️ Technologies
 
