@@ -1,12 +1,12 @@
 # Hi, I'm Saad 👋
 
 ### About Me 🎯
-Software Engineer with a passion for building scalable systems and data-driven tools. Currently working on energy systems at Tesla and maintaining YTAnalytics.com, a platform serving 11,000+ users. I combine my experience in automotive software, ML/AI, and distributed systems to create impactful solutions.
+Software Engineer with a passion for building scalable systems and data-driven tools. Currently working on energy systems at Tesla. Previously built YTAnalytics.com, a platform that reached 11,000+ users. I combine my experience in automotive software, ML/AI, distributed systems, and quantitative finance to create impactful solutions.
 
 ## 🔨 Current Work
 - Software Engineer Intern at Tesla (Energy)
-- Maintaining YTAnalytics.com, a platform with 11,000+ users
 - Maintaining HapiGPT, an AI-powered mental wellness platform
+- Building high-performance trading systems and market simulators
 
   
 ## 🛠️ Technologies
@@ -14,6 +14,7 @@ Software Engineer with a passion for building scalable systems and data-driven t
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -29,17 +30,18 @@ Software Engineer with a passion for building scalable systems and data-driven t
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-### ML/AI
+### ML/AI & Quantitative Finance
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 
 ## 💻 Experience
 
-### Tesla (Drive Unit) 🚗
+### Tesla (Energy Systems) 🚗
+- Integrated DNP3 protocol into **90+ core** high-performance vehicle simulation platform
 - Built motor data tool processing **330GB+** monthly from **38K+ vehicles**
 - Deployed across Model Y (Texas/Berlin) and Cybertruck production
-- Technologies: Python, Go, Docker, CAN, Big Data Pipelines
+- Technologies: C++, Rust, gRPC, Python, Go, Docker, CAN, Big Data Pipelines
 
 ### Universe (Mobile & ML) 📱
 - Optimized load times for **1M+ websites**
@@ -51,13 +53,28 @@ Software Engineer with a passion for building scalable systems and data-driven t
 - Saved **53+ hours** for **81 engineers** with validation framework
 - Technologies: C++, Python, TCP/IP
 
+## 🏆 Awards & Recognition
+- **Codeforces Expert** (Rating 1786, Top 8% globally)
+- **Ontario Provincial Chess Competition** - 9th place
+- **Tesla Company-wide Recognition** - Featured on internal TV displays across NA offices
+
 ## 🚀 Featured Projects
 
+### NASDAQ Trading Simulation System
+High-performance market simulator for backtesting quantitative trading strategies
+- Processes **318M+ messages** (**11GB** of raw binary data) at **474K+ trades/second**
+- Multi-threaded C++ architecture with in-memory processing and batch optimization
+- Executes **21M+ trades** testing liquidity reversion strategy with full performance analytics
+- Technologies: C++, Multi-threading, High-performance computing, Quantitative finance
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 ### [YTAnalytics.com](https://ytanalytics.com)
-YouTube analytics platform with **11,000+ users**
+YouTube analytics platform that reached **11,000+ users**
 - React, Python, AWS Lambda, DynamoDB
 - Microservices architecture
-- Real-time analytics
+- Real-time analytics dashboard
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -85,4 +102,4 @@ AI-powered mental wellness platform
 ## 🎓 Education
 University of Waterloo
 - Computer Science (2026)
-- Data Structures, Algorithms, OOP, Databases
+- Data Structures, Algorithms, Computer Architecture, Compilers, Statistics
