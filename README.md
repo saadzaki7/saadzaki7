@@ -53,6 +53,10 @@ Software Engineer working on high-performance computing and simulations at Tesla
 - Saved **53+ hours** for **81 engineers** with validation framework
 - Technologies: C++, Python, TCP/IP
 
+### Foxpass (Cloud Security) 🔐
+- Generated database search optimizer for **XM+ queries** per day
+- Technologies: Python, SQL, Django, Cloud Computing, Cloud Security, Penetration Testing
+
 ## 🚀 Featured Projects
 
 ### NASDAQ Trading Simulation System
