@@ -100,5 +100,5 @@ AI-powered mental wellness platform
 
 ## 🎓 Education
 University of Waterloo
-- Computer Science (2026)
+- Computer Science
 - Data Structures, Algorithms, Computer Architecture, Compilers, Statistics
